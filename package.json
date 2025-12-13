@@ -2,7 +2,7 @@
   "name": "netflix-clone",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://agidegetnet19.github.io/Netflix-Clone-2025/",
+  "homepage": "https://agidegetnet19.github.io/netflix-clone",
   "type": "module",
   "scripts": {
     "dev": "vite",
